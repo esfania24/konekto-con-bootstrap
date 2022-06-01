@@ -1,0 +1,32 @@
+* {
+    font-family: sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Bebas Neue';
+    color: rgb(255, 187, 0);
+}
+.nav-item {
+    color: rgb(255, 187, 0);
+}
+
+.nav-link {
+    font-family: 'Bebas Neue';
+    color: rgb(255, 187, 0);
+}
+
+.dropdown-item {
+    font-family: 'Bebas Neue';
+    color: rgb(255, 187, 0);
+}
+.text-light {
+    font-family: 'Bebas Neue';  
+}
+
+.nosotros {
+    font-family: 'Bebas Neue';  
+}
+
+.botones {
+    color: rgb(255, 187, 0);
+}
