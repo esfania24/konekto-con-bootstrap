@@ -24,7 +24,12 @@
 }
 
 .nosotros {
-    font-family: 'Bebas Neue';  
+    font-family: 'Bebas Neue';
+    text-align: center;  
+}
+.texto {
+    font-family: 'Bebas Neue';
+    text-align: justify;  
 }
 
 .botones {
