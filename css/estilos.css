@@ -50,7 +50,8 @@
 .tit-form {
     color: grey;
     font-family: 'Orbitron', sans-serif;
-
+    text-align: center;
+    padding-bottom: 1%;
 }
 .color-form {
     color: grey;
@@ -65,9 +66,11 @@
 }
 .texto {
     font-family: 'Bebas Neue', cursive;
-    text-align: justify; 
+    text-align: center; 
     color: grey;
     letter-spacing: 1px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .staff {
@@ -87,8 +90,7 @@ element.style {
 }
 
 .bolsa {
-    color: grey;
-   
+    color: grey;   
 }
 .bolsa h3 {
     font-family: 'Orbitron', sans-serif;
@@ -96,14 +98,16 @@ element.style {
 .contacto {
     background-color: rgb(50, 49, 49);
     color: gainsboro;
+    margin: 2%;
+    padding: 2%;
 }
 .ofer {
-    background-color: rgb(211, 139, 23, 0.988);
+    background-color: rgb(194, 188, 188);
     text-align: justify;   
 }
 .ofer h3 {
     text-align: center;
-    color: black;
+    color: rgb(50, 49, 49);
 }
 .tit-con {
     text-align: center;
@@ -117,9 +121,27 @@ element.style {
 .contacto-con {
     background-color: gainsboro;
     color: grey;
+  
 }
 .servicios {
     text-align: justify;
+    color: rgb(211, 139, 23, 0.988);
+}
+
+.bloque-ser {
+    border-color: rgb(211, 139, 23, 0.988);
+    border-style:solid;
+    border-bottom-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    margin: 2%;
+    padding: 2%;
+}
+.servicios:hover{
+    background-color: rgb(50, 49, 49);
+    color: white;
+    
 }
 
 
